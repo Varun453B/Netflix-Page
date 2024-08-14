@@ -3,5 +3,5 @@ This side Varun Bankar
 
 
 *//-------------------//
-Netflix page with HTNL, CSS and JavaScript.
+Netflix page with HTML, CSS and JavaScript.
 *//-------------------//
